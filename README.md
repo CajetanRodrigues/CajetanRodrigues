@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![](https://raw.githubusercontent.com/theIYD/CajetanRodrigues/master/profile.png)](https://CajetanRodrigues.github.io)
+
+<img src="https://github.com/CajetanRodrigues/CajetanRodrigues/blob/master/profile.png" width="350">
 
 Yo, I'm Caje, a full stack software developer and an undergraduate in Computer Engineering, B.E at  [Fr Conceicao Rodrigues College of Engineering](https://www.linkedin.com/school/fr.-conceicao-rodrigues-college-of-engineering/)
 
