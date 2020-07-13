@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-<img src="https://github.com/CajetanRodrigues/CajetanRodrigues/blob/master/profile.png" width="350">
-
 Yo, I'm Caje, a full stack software developer and an undergraduate in Computer Engineering, B.E at  [Fr Conceicao Rodrigues College of Engineering](https://www.linkedin.com/school/fr.-conceicao-rodrigues-college-of-engineering/)
 
 - Here's my online portfolio which summarizes my journey: [https://cajetanrodrigues.github.io/cajetan-portfolio/](https://www.linkedin.com/company/mifos/)
