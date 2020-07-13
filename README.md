@@ -2,7 +2,7 @@
 
 Yo, I'm Caje, a full stack software developer and an undergraduate in Computer Engineering, B.E at  [Fr Conceicao Rodrigues College of Engineering](https://www.linkedin.com/school/fr.-conceicao-rodrigues-college-of-engineering/)
 
-- Here's my online portfolio which summarizes my journey: [https://cajetanrodrigues.github.io/cajetan-portfolio/](https://www.linkedin.com/company/mifos/)
+- Here's my online portfolio which summarizes my journey: [https://cajetanrodrigues.github.io/cajetan-portfolio/](https://cajetanrodrigues.github.io/cajetan-portfolio/#/profile)
 - And here's my RESUME for more details:  [RESUME](https://drive.google.com/file/d/1UxxQgGsX29XFuVkgaD0cwMcXekpl7-6f/view?usp=sharing)
  
 - 🔭 I’m currently working on a project contract based on Spring Boot REST API development.
