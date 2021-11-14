@@ -28,22 +28,22 @@ Hi, I'm **Cajetan Rodrigues**, a **B.E, Computer Engineer** graduate from [Fr Co
 - ⚡ Fun fact: Google rents 200 goats to eat the grass at their Mountain View headquarters.
 
 
-# SKILLS
+## SKILLS
 
-## PROGRAMMING
+### PROGRAMMING
 •	Java •  Python • JavaScript • C
 
-## DATA MANAGEMENT
+### DATA MANAGEMENT
 •	MongoDB • MySQL • MySQL • PL/ SQL • Oracle DB • Redis • Statistics • Machine Learning • Pytorch • Keras • TensorFlow • OpenCV
 
-## WEB DEVELOPMENT
+### WEB DEVELOPMENT
 •	Spring Boot • NodeJS • Python-Flask 
 •	Angular • React • React Native • Ionic • CSS • React • Bootstrap • jQuery • DOM Manipulation • AJAX • React 
 
-## CLOUD 
+### CLOUD 
 •	Amazon Web Services •	Google cloud platform • Firebase Realtime Database • Heroku • GH Pages
 
-## OTHERS 
+### OTHERS 
 • Data Structures • Git • Linux • Docker • Git • Elasticsearch • Github • Gitlab
 
 
