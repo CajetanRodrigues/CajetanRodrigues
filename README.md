@@ -1,10 +1,9 @@
-Hi, I'm **Cajetan Rodrigues**, a **full stack software developer** graduated from [Fr Conceicao Rodrigues College of Engineering](https://www.linkedin.com/school/fr.-conceicao-rodrigues-college-of-engineering/) in the field of **Computer Engineering, B.E**.
+Hi, I'm **Cajetan Rodrigues**, a **B.E, Computer Engineer** graduate from [Fr Conceicao Rodrigues College of Engineering](https://www.linkedin.com/school/fr.-conceicao-rodrigues-college-of-engineering/)
 
-- Here's my [**Portfolio Website**](https://cajetanrodrigues.github.io/cajetan-portfolio/#/profile)
 - Here's my [**Resume**](https://drive.google.com/file/d/103BSFXPcnFRAJtzRVpaEqzvxaW_n_W71/view?usp=sharinghttps://drive.google.com/file/d/103BSFXPcnFRAJtzRVpaEqzvxaW_n_W71/view?usp=sharing)
 - Here's my [**LinkedIn handle** ](https://www.linkedin.com/in/rodriguescajetan/)
  
-- 🔭 I’m currently working with **ZS, India** as a **Business Technology associate** and my core area focus is in **Amazon Web Services, Python & Big data technologies**.
+- 🔭 I’m currently working with **Cimpress, India** as a **Senior Software Engineer**
 
 - :computer: I have interned at 5 organizations and have profound knowledge on the latest :wrench: application frameworks, AWS Cloud & High level System design.
 
@@ -18,7 +17,7 @@ Hi, I'm **Cajetan Rodrigues**, a **full stack software developer** graduated fro
   
   - [Tech Skills IT Consultants](https://www.linkedin.com/company/techskillsit-online-learning-platform/)
   
-- 🌱 I’m currently learning :cloud: AWS Cloud and constantly striving to get the best version of myself by bringing latest ideas into practice. The stack goes on and on.
+- 🌱 I’m currently learning :cloud: AWS Cloud and constantly striving to attain the best version of myself by bringing latest ideas into practice. The stack goes on and on.
 
 - 👯 I’m open for :office: Job opportunities & :hotel: Internships
 
@@ -32,18 +31,19 @@ Hi, I'm **Cajetan Rodrigues**, a **full stack software developer** graduated fro
 # SKILLS
 
 ## PROGRAMMING
-•	Java •  Python • JavaScript
+•	Java •  Python • JavaScript • C
 
-## DATABASES
-•	MongoDB • MySQL
+## DATA MANAGEMENT
+•	MongoDB • MySQL • MySQL • PL/ SQL • Oracle DB • Redis • Statistics • Machine Learning • Pytorch • Keras • TensorFlow • OpenCV
 
-## FRAMEWORKS
-•	Spring Boot • Angular 
-•	NodeJS • React
-•	Ionic • React Native
+## WEB DEVELOPMENT
+•	Spring Boot • NodeJS • Python-Flask 
+•	Angular • React • React Native • Ionic • CSS • React • Bootstrap • jQuery • DOM Manipulation • AJAX • React 
 
 ## CLOUD 
-•	Amazon Web Services
-•	Google cloud platform
+•	Amazon Web Services •	Google cloud platform • Firebase Realtime Database • Heroku • GH Pages
+
+## OTHERS 
+• Data Structures • Git • Linux • Docker • Git • Elasticsearch • Github • Gitlab
 
 
