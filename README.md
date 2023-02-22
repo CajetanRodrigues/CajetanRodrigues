@@ -32,10 +32,6 @@
 - 2019, Full Stack Dev. @ Google Summer of Code.
 - 2019, Full Stack Dev. @ Teach For India.
 
-📫 I'm available on [LinkedIn](https://www.linkedin.com/in/rodriguescajetan/) & cajetanrodrigues88@gmail.com
-
-**Fun fact**: It's funny that companies ask for your LinkedIn Profile & CV & fill out their applications. Shouldn't either be enough?
-
 <h3>Where to find me ?</h3>
 <p>
   <a href="https://www.linkedin.com/in/rodriguescajetan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/cajeeeeeeee" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
