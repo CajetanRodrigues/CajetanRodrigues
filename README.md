@@ -3,7 +3,7 @@
 </h1>
 
 <p>I'm a Fullstack developer from <b>Mumbai, India</b>, currently living in <b>California, USA</b>.</p>
-<h3>Things I code with</h3>
+<h3>I love coding in...but not limited to...</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=black" />
