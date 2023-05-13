@@ -37,3 +37,15 @@
   <a href="https://www.linkedin.com/in/rodriguescajetan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/cajeeeeeeee" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+<sub><p align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CajetanRodrigues&theme=radical)](https://git.io/streak-stats)
+</p></sub>
+
+<sub><p align="center">
+  [![CajetanRodrigues stats](https://github-readme-stats.vercel.app/api?username=CajetanRodrigues&count_private=true&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+</p></sub>
+
+<sub><p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CajetanRodrigues&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p></sub>
+
